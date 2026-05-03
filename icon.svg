@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#4f7ef8"/>
+  <!-- Fork -->
+  <rect x="148" y="120" width="24" height="160" rx="12" fill="white"/>
+  <rect x="196" y="120" width="24" height="100" rx="12" fill="white"/>
+  <rect x="148" y="200" width="72" height="24" rx="12" fill="white"/>
+  <rect x="184" y="240" width="24" height="160" rx="12" fill="white"/>
+  <!-- Flame -->
+  <path d="M296 380 C296 380 260 340 280 290 C290 265 310 255 310 255 C305 280 320 295 330 280 C345 255 330 210 300 185 C325 200 370 235 365 295 C360 340 340 365 340 380 Z" fill="white" opacity="0.95"/>
+  <path d="M315 380 C315 380 295 355 305 325 C310 310 325 305 325 305 C320 320 330 330 338 320 C345 340 335 365 315 380 Z" fill="#fbbf24"/>
+</svg>
